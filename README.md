@@ -7,3 +7,8 @@ public class ArrayExamples {
             System.out.print(singleArray[i] + " ");
         }
         System.out.println();
+
+Output 
+Single-dimensional array:
+1 2 3 4 5
+
